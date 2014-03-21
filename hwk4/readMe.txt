@@ -5,6 +5,11 @@
 *
 **************************************************************************************
 
+**** TO EXECUTE PROGRAM ****
+Once in the directory with all the java files:
+> javac *.java
+> java PokerTest
+
 I divided my Video Poker program into five different classes: Card, Deck, Player, 
 Game, and a Test class.  My Card class has two instance variables: suit and value.  
 Every card in a 52 card deck has a value from 1-13(Ace, 2, 3, … , Jack, Queen, King)  
